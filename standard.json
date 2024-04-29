@@ -1,0 +1,1574 @@
+{
+  "qms": {
+    "1-5": {
+      "high": {
+        "initial": 1.5,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "medium": {
+        "initial": 1.5,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "low": {
+        "initial": 1.5,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      }
+    },
+    "6-10": {
+      "high": {
+        "initial": 2.0,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "medium": {
+        "initial": 2.0,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "low": {
+        "initial": 2.0,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      }
+    },
+    "11-15": {
+      "high": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "medium": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "low": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      }
+    },
+    "16-25": {
+      "high": {
+        "initial": 3.0,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "medium": {
+        "initial": 3.0,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "low": {
+        "initial": 3.0,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      }
+    },
+    "26-45": {
+      "high": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      },
+      "medium": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      },
+      "low": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      }
+    },
+    "46-65": {
+      "high": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      },
+      "medium": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      },
+      "low": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      }
+    },
+    "66-85": {
+      "high": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "medium": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "low": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      }
+    },
+    "86-125": {
+      "high": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "medium": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "low": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      }
+    },
+    "126-175": {
+      "high": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "medium": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "low": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      }
+    },
+    "176-275": {
+      "high": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "medium": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "low": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      }
+    },
+    "276-425": {
+      "high": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      },
+      "medium": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      },
+      "low": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      }
+    },
+    "426-625": {
+      "high": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "medium": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "low": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      }
+    },
+    "626-875": {
+      "high": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "medium": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "low": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      }
+    },
+    "876-1175": {
+      "high": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "medium": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "low": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      }
+    },
+    "1176-1550": {
+      "high": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      },
+      "medium": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      },
+      "low": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      }
+    },
+    "1551-2025": {
+      "high": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "medium": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "low": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      }
+    },
+    "2026-2675": {
+      "high": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "medium": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "low": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      }
+    },
+    "2676-3450": {
+      "high": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      },
+      "medium": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      },
+      "low": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      }
+    },
+    "3451-4350": {
+      "high": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "medium": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "low": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      }
+    },
+    "4351-5450": {
+      "high": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "medium": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "low": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      }
+    },
+    "5451-6800": {
+      "high": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "medium": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "low": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      }
+    },
+    "6801-8500": {
+      "high": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "medium": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "low": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      }
+    },
+    "8501-10700": {
+      "high": {
+        "initial": 22,
+        "surveillance": 7.5,
+        "renewal": 15
+      },
+      "medium": {
+        "initial": 22,
+        "surveillance": 7.5,
+        "renewal": 15
+      },
+      "low": {
+        "initial": 22,
+        "surveillance": 7.5,
+        "renewal": 15
+      }
+    }
+  },
+  "ems": {
+    "1-5": {
+      "high": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2
+      },
+      "medium": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2
+      },
+      "low": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2
+      }
+    },
+    "6-10": {
+      "high": {
+        "initial": 3.5,
+        "surveillance": 1.5,
+        "renewal": 2.5
+      },
+      "medium": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2
+      },
+      "low": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2
+      }
+    },
+    "11-15": {
+      "high": {
+        "initial": 4.5,
+        "surveillance": 1.5,
+        "renewal": 3
+      },
+      "medium": {
+        "initial": 3.5,
+        "surveillance": 1.5,
+        "renewal": 2.5
+      },
+      "low": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      }
+    },
+    "16-25": {
+      "high": {
+        "initial": 5.5,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "medium": {
+        "initial": 4.5,
+        "surveillance": 1.5,
+        "renewal": 3
+      },
+      "low": {
+        "initial": 3.5,
+        "surveillance": 1.5,
+        "renewal": 2.5
+      }
+    },
+    "26-45": {
+      "high": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "medium": {
+        "initial": 5.5,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "low": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      }
+    },
+    "46-65": {
+      "high": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "medium": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "low": {
+        "initial": 4.5,
+        "surveillance": 1.5,
+        "renewal": 3
+      }
+    },
+    "66-85": {
+      "high": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "medium": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "low": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      }
+    },
+    "86-125": {
+      "high": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "medium": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "low": {
+        "initial": 5.5,
+        "surveillance": 2,
+        "renewal": 4
+      }
+    },
+    "126-175": {
+      "high": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "medium": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "low": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      }
+    },
+    "176-275": {
+      "high": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "medium": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      },
+      "low": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      }
+    },
+    "276-425": {
+      "high": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "medium": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "low": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      }
+    },
+    "426-625": {
+      "high": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "medium": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "low": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      }
+    },
+    "626-875": {
+      "high": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "medium": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "low": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      }
+    },
+    "876-1175": {
+      "high": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "medium": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "low": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      }
+    },
+    "1176-1550": {
+      "high": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "medium": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "low": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      }
+    },
+    "1551-2025": {
+      "high": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "medium": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      },
+      "low": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      }
+    },
+    "2026-2675": {
+      "high": {
+        "initial": 23,
+        "surveillance": 8,
+        "renewal": 15.5
+      },
+      "medium": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "low": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      }
+    },
+    "2676-3450": {
+      "high": {
+        "initial": 25,
+        "surveillance": 8.5,
+        "renewal": 17
+      },
+      "medium": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "low": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      }
+    },
+    "3451-4350": {
+      "high": {
+        "initial": 27,
+        "surveillance": 9,
+        "renewal": 18
+      },
+      "medium": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "low": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      }
+    },
+    "4351-5450": {
+      "high": {
+        "initial": 28,
+        "surveillance": 10,
+        "renewal": 19
+      },
+      "medium": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "low": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      }
+    },
+    "5451-6800": {
+      "high": {
+        "initial": 30,
+        "surveillance": 10,
+        "renewal": 20
+      },
+      "medium": {
+        "initial": 23,
+        "surveillance": 7.5,
+        "renewal": 15.5
+      },
+      "low": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      }
+    },
+    "6801-8500": {
+      "high": {
+        "initial": 32,
+        "surveillance": 11,
+        "renewal": 21.5
+      },
+      "medium": {
+        "initial": 25,
+        "surveillance": 8.5,
+        "renewal": 17
+      },
+      "low": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      }
+    },
+    "8501-10700": {
+      "high": {
+        "initial": 34,
+        "surveillance": 11.5,
+        "renewal": 25
+      },
+      "medium": {
+        "initial": 27,
+        "surveillance": 9,
+        "renewal": 18
+      },
+      "low": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      }
+    }
+  },
+  "ohsms": {
+    "1-5": {
+      "high": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2
+      },
+      "medium": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2
+      },
+      "low": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2
+      }
+    },
+    "6-10": {
+      "high": {
+        "initial": 3.5,
+        "surveillance": 1.5,
+        "renewal": 2.5
+      },
+      "medium": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2
+      },
+      "low": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2
+      }
+    },
+    "11-15": {
+      "high": {
+        "initial": 4.5,
+        "surveillance": 1.5,
+        "renewal": 3
+      },
+      "medium": {
+        "initial": 3.5,
+        "surveillance": 1.5,
+        "renewal": 2.5
+      },
+      "low": {
+        "initial": 3,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      }
+    },
+    "16-25": {
+      "high": {
+        "initial": 5.5,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "medium": {
+        "initial": 4.5,
+        "surveillance": 1.5,
+        "renewal": 3
+      },
+      "low": {
+        "initial": 3.5,
+        "surveillance": 1.5,
+        "renewal": 2.5
+      }
+    },
+    "26-45": {
+      "high": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "medium": {
+        "initial": 5.5,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "low": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      }
+    },
+    "46-65": {
+      "high": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "medium": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "low": {
+        "initial": 4.5,
+        "surveillance": 1.5,
+        "renewal": 3
+      }
+    },
+    "66-85": {
+      "high": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "medium": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "low": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      }
+    },
+    "86-125": {
+      "high": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "medium": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "low": {
+        "initial": 5.5,
+        "surveillance": 2,
+        "renewal": 4
+      }
+    },
+    "126-175": {
+      "high": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "medium": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "low": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      }
+    },
+    "176-275": {
+      "high": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "medium": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      },
+      "low": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      }
+    },
+    "276-425": {
+      "high": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "medium": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "low": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      }
+    },
+    "426-625": {
+      "high": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "medium": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "low": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      }
+    },
+    "626-875": {
+      "high": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "medium": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "low": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      }
+    },
+    "876-1175": {
+      "high": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "medium": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "low": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      }
+    },
+    "1176-1550": {
+      "high": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "medium": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "low": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      }
+    },
+    "1551-2025": {
+      "high": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "medium": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      },
+      "low": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      }
+    },
+    "2026-2675": {
+      "high": {
+        "initial": 23,
+        "surveillance": 8,
+        "renewal": 15.5
+      },
+      "medium": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "low": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      }
+    },
+    "2676-3450": {
+      "high": {
+        "initial": 25,
+        "surveillance": 8.5,
+        "renewal": 17
+      },
+      "medium": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "low": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      }
+    },
+    "3451-4350": {
+      "high": {
+        "initial": 27,
+        "surveillance": 9,
+        "renewal": 18
+      },
+      "medium": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "low": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      }
+    },
+    "4351-5450": {
+      "high": {
+        "initial": 28,
+        "surveillance": 10,
+        "renewal": 19
+      },
+      "medium": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "low": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      }
+    },
+    "5451-6800": {
+      "high": {
+        "initial": 30,
+        "surveillance": 10,
+        "renewal": 20
+      },
+      "medium": {
+        "initial": 23,
+        "surveillance": 7.5,
+        "renewal": 15.5
+      },
+      "low": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      }
+    },
+    "6801-8500": {
+      "high": {
+        "initial": 32,
+        "surveillance": 11,
+        "renewal": 21.5
+      },
+      "medium": {
+        "initial": 25,
+        "surveillance": 8.5,
+        "renewal": 17
+      },
+      "low": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      }
+    },
+    "8501-10700": {
+      "high": {
+        "initial": 34,
+        "surveillance": 11.5,
+        "renewal": 25
+      },
+      "medium": {
+        "initial": 27,
+        "surveillance": 9,
+        "renewal": 18
+      },
+      "low": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      }
+    }
+  },
+  "cms": {
+    "1-5": {
+      "high": {
+        "initial": 1.5,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "medium": {
+        "initial": 1.5,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "low": {
+        "initial": 1.5,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      }
+    },
+    "6-10": {
+      "high": {
+        "initial": 2.0,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "medium": {
+        "initial": 2.0,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      },
+      "low": {
+        "initial": 2.0,
+        "surveillance": 1.0,
+        "renewal": 1.5
+      }
+    },
+    "11-15": {
+      "high": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "medium": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "low": {
+        "initial": 2.5,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      }
+    },
+    "16-25": {
+      "high": {
+        "initial": 3.0,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "medium": {
+        "initial": 3.0,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      },
+      "low": {
+        "initial": 3.0,
+        "surveillance": 1.0,
+        "renewal": 2.0
+      }
+    },
+    "26-45": {
+      "high": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      },
+      "medium": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      },
+      "low": {
+        "initial": 4.0,
+        "surveillance": 1.5,
+        "renewal": 3.0
+      }
+    },
+    "46-65": {
+      "high": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      },
+      "medium": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      },
+      "low": {
+        "initial": 5,
+        "surveillance": 2,
+        "renewal": 3.5
+      }
+    },
+    "66-85": {
+      "high": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "medium": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      },
+      "low": {
+        "initial": 6,
+        "surveillance": 2,
+        "renewal": 4
+      }
+    },
+    "86-125": {
+      "high": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "medium": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      },
+      "low": {
+        "initial": 7,
+        "surveillance": 2.5,
+        "renewal": 5
+      }
+    },
+    "126-175": {
+      "high": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "medium": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      },
+      "low": {
+        "initial": 8,
+        "surveillance": 3,
+        "renewal": 5.5
+      }
+    },
+    "176-275": {
+      "high": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "medium": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      },
+      "low": {
+        "initial": 9,
+        "surveillance": 3,
+        "renewal": 6
+      }
+    },
+    "276-425": {
+      "high": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      },
+      "medium": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      },
+      "low": {
+        "initial": 10,
+        "surveillance": 3.5,
+        "renewal": 7
+      }
+    },
+    "426-625": {
+      "high": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "medium": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      },
+      "low": {
+        "initial": 11,
+        "surveillance": 4,
+        "renewal": 7.5
+      }
+    },
+    "626-875": {
+      "high": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "medium": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      },
+      "low": {
+        "initial": 12,
+        "surveillance": 4,
+        "renewal": 8
+      }
+    },
+    "876-1175": {
+      "high": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "medium": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      },
+      "low": {
+        "initial": 13,
+        "surveillance": 4.5,
+        "renewal": 9
+      }
+    },
+    "1176-1550": {
+      "high": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      },
+      "medium": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      },
+      "low": {
+        "initial": 14,
+        "surveillance": 5,
+        "renewal": 9.5
+      }
+    },
+    "1551-2025": {
+      "high": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "medium": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      },
+      "low": {
+        "initial": 15,
+        "surveillance": 5,
+        "renewal": 10
+      }
+    },
+    "2026-2675": {
+      "high": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "medium": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      },
+      "low": {
+        "initial": 16,
+        "surveillance": 5.5,
+        "renewal": 11
+      }
+    },
+    "2676-3450": {
+      "high": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      },
+      "medium": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      },
+      "low": {
+        "initial": 17,
+        "surveillance": 6,
+        "renewal": 11.5
+      }
+    },
+    "3451-4350": {
+      "high": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "medium": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      },
+      "low": {
+        "initial": 18,
+        "surveillance": 6,
+        "renewal": 12
+      }
+    },
+    "4351-5450": {
+      "high": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "medium": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      },
+      "low": {
+        "initial": 19,
+        "surveillance": 6.5,
+        "renewal": 13
+      }
+    },
+    "5451-6800": {
+      "high": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "medium": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      },
+      "low": {
+        "initial": 20,
+        "surveillance": 7,
+        "renewal": 13.5
+      }
+    },
+    "6801-8500": {
+      "high": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "medium": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      },
+      "low": {
+        "initial": 21,
+        "surveillance": 7,
+        "renewal": 14
+      }
+    },
+    "8501-10700": {
+      "high": {
+        "initial": 22,
+        "surveillance": 7.5,
+        "renewal": 15
+      },
+      "medium": {
+        "initial": 22,
+        "surveillance": 7.5,
+        "renewal": 15
+      },
+      "low": {
+        "initial": 22,
+        "surveillance": 7.5,
+        "renewal": 15
+      }
+    }
+  }
+}
