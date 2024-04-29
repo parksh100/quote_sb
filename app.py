@@ -310,7 +310,7 @@ if st.button('견적보기'):
     st.success('견적산출이 완료되었습니다! 만족하셨다면 인증심사를 신청해보세요.')
     # HTML과 JavaScript를 사용하여 버튼에 링크 적용
     st.markdown("""
-    <a href="https://iso-application.streamlit.app" target="_blank">
+    <a href="https://application-sb.streamlit.app/" target="_blank">
         <button style="color: white; background-color: red; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 10px;">
             심사신청하기
         </button>
